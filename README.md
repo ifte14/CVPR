@@ -1,2 +1,2 @@
-# CVPR
-Computer Visison &amp; Pattern
+
+Computer Visison & Pattern
